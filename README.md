@@ -1,3 +1,3 @@
 # configsdi
 Config files for my GitHub profile.
-We will be updating this in due time.
+Welcome to SDI this is a platform to explore Web 3.0,  we're looking to explore...
